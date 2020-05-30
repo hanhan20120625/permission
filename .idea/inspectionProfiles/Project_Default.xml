@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AnnotationReferenceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AnnotationRestrictInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MapperMethodWithoutStatementInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MybatisConfigXml" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MybatisGeneratorXml" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MybatisMapperXml" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SQLParameterInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SQLParameterInspection2" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SqlProviderMethodInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="XmlStatementWithoutDefinition" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
